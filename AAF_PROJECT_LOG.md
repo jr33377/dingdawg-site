@@ -141,6 +141,7 @@ This is the primary manual task required to make products "live" for content gen
 |---|---|
 | `amazon_intelligence.db` | SQLite database for all product opportunity data. |
 | `affiliate_instructions_*.txt` | Auto-generated file with steps for manual link creation. |
+| `AAF_PROJECT_LOG.md` | This project log and operating manual. Resides in project root. |
 | `.env` | Secure storage for all API keys. |
 | `hugo.toml` | Main Hugo site configuration. |
 
