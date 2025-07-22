@@ -1,0 +1,154 @@
+
+ JARVIS AMAZON AFFILIATE LINK GENERATION - STRATEGIC SEEDING
+Generated: 2025-07-09 20:40:31
+
+MISSION: Generate Amazon affiliate links for 10 HIGH-VALUE AI products.
+
+ STEP-BY-STEP INSTRUCTIONS:
+1. Log into Amazon Associates: https://affiliate-program.amazon.com/
+2. Navigate to Amazon.com (SiteStripe toolbar should appear at top)
+3. For each product below:
+   a) Go to the Amazon URL
+   b) Click SiteStripe "Get Link" > "Text"
+   c) Copy the "Short Link" (amzn.to format)
+   d) Paste into the CSV file for tracking
+
+ TOP REVENUE OPPORTUNITIES:
+
+--- PRODUCT #1 ---
+ASIN: B08B3FZRBC
+Title: Hands-On Machine Learning with Scikit-Learn, Keras, and Tens...
+Price: $63.99
+Category: books
+Opportunity Score: 95.0/100
+Est. Monthly Revenue: $45.50
+
+Amazon URL: https://www.amazon.com/dp/B08B3FZRBC
+Affiliate Link: ________________
+
+
+--- PRODUCT #2 ---
+ASIN: B08N5WRWNW
+Title: Echo Dot (4th Gen) with Alexa - Smart Speaker...
+Price: $49.99
+Category: electronics
+Opportunity Score: 94.0/100
+Est. Monthly Revenue: $15.25
+
+Amazon URL: https://www.amazon.com/dp/B08N5WRWNW
+Affiliate Link: ________________
+
+
+--- PRODUCT #3 ---
+ASIN: B073LWHWJZ
+Title: Python Crash Course: A Hands-On, Project-Based Introduction ...
+Price: $39.95
+Category: books
+Opportunity Score: 92.0/100
+Est. Monthly Revenue: $38.20
+
+Amazon URL: https://www.amazon.com/dp/B073LWHWJZ
+Affiliate Link: ________________
+
+
+--- PRODUCT #4 ---
+ASIN: B08LVBYZTC
+Title: Sony WH-1000XM4 Wireless Premium Noise Canceling Overhead He...
+Price: $348.00
+Category: headphones
+Opportunity Score: 91.0/100
+Est. Monthly Revenue: $42.60
+
+Amazon URL: https://www.amazon.com/dp/B08LVBYZTC
+Affiliate Link: ________________
+
+
+--- PRODUCT #5 ---
+ASIN: B08ZJ6T86M
+Title: Logitech MX Master 3 Advanced Wireless Mouse...
+Price: $99.99
+Category: electronics
+Opportunity Score: 89.0/100
+Est. Monthly Revenue: $31.20
+
+Amazon URL: https://www.amazon.com/dp/B08ZJ6T86M
+Affiliate Link: ________________
+
+
+--- PRODUCT #6 ---
+ASIN: B089DNQN2B
+Title: Pattern Recognition and Machine Learning...
+Price: $94.00
+Category: books
+Opportunity Score: 88.0/100
+Est. Monthly Revenue: $52.30
+
+Amazon URL: https://www.amazon.com/dp/B089DNQN2B
+Affiliate Link: ________________
+
+
+--- PRODUCT #7 ---
+ASIN: B08F5N2DKS
+Title: Raspberry Pi 4 Model B Development Board...
+Price: $75.00
+Category: electronics
+Opportunity Score: 85.0/100
+Est. Monthly Revenue: $22.80
+
+Amazon URL: https://www.amazon.com/dp/B08F5N2DKS
+Affiliate Link: ________________
+
+
+--- PRODUCT #8 ---
+ASIN: B07STGG1N2
+Title: Arduino Uno R3 Microcontroller Board...
+Price: $23.00
+Category: electronics
+Opportunity Score: 82.0/100
+Est. Monthly Revenue: $18.90
+
+Amazon URL: https://www.amazon.com/dp/B07STGG1N2
+Affiliate Link: ________________
+
+
+--- PRODUCT #9 ---
+ASIN: B07YRWVY4N
+Title: NVIDIA GeForce RTX 3080 Graphics Card...
+Price: $699.99
+Category: electronics
+Opportunity Score: 78.0/100
+Est. Monthly Revenue: $28.75
+
+Amazon URL: https://www.amazon.com/dp/B07YRWVY4N
+Affiliate Link: ________________
+
+
+--- PRODUCT #10 ---
+ASIN: B08PNMQYSY
+Title: Microsoft Surface Studio 2+ All-in-One Desktop Computer...
+Price: $4299.99
+Category: electronics
+Opportunity Score: 65.0/100
+Est. Monthly Revenue: $89.50
+
+Amazon URL: https://www.amazon.com/dp/B08PNMQYSY
+Affiliate Link: ________________
+
+
+ EXECUTION PRIORITIES:
+1. Focus on TOP 5 products first (highest opportunity scores)
+2. These are proven bestsellers with strong conversion potential
+3. Perfect for immediate content generation
+
+ REVENUE SUMMARY:
+Total Monthly Potential: $385.00
+Annual Revenue Potential: $4620.00
+
+ NEXT STEPS AFTER LINK GENERATION:
+1. Update product status to 'ACTIVE' in database
+2. Run content generation for active products
+3. Monitor performance and optimize
+
+⚠️  COMPLIANCE NOTE:
+All products selected follow Amazon Associates guidelines.
+Focus on honest reviews and valuable content for users.

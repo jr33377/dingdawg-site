@@ -1,0 +1,414 @@
+ClickBank Client Contract
+
+The ClickBank Client Contract outlines terms for using ClickBank services, including rules on registration, promotion, and compliance.
+Updated this week
+Table of contents
+
+Last updated July 15, 2025
+
+ 
+ClickBank Client Contract
+
+PLEASE READ AND CONSIDER THESE TERMS CAREFULLY AS THEY FORM A BINDING AGREEMENT BETWEEN YOU AND CLICKBANK.
+
+ 
+
+This CLICKBANK CLIENT CONTRACT (the "Agreement") constitutes a legally binding agreement between Click Sales Inc., a Delaware corporation ("ClickBank") and you ("You" or "Your"). BY CHECKING THE BOX STATING THAT YOU HAVE READ AND AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT AS PART OF YOUR REGISTRATION WITH CLICKBANK, YOU AGREE AND CONSENT TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT, INCLUDING ANY CHANGES TO THIS AGREEMENT OR ADDITIONAL POLICIES INCORPORATED BY REFERENCE WHICH CLICKBANK MAY MAKE IN ITS SOLE DISCRETION IN THE FUTURE, FOR AS LONG AS YOU USE THE CLICKBANK SERVICES.
+
+ 
+
+BY USING CLICKBANK PLATFORM, YOU (a) AGREE TO THIS AGREEMENT GOVERNS YOUR USE OF THE CLICKBANK PLATFORM, THE CLICKBANK SERVICES, AND ANY GOODS OR SERVICES PURCHASE USING THE CLICKBANK SERVICES, (b) REPRESENT AND WARRANT THAT YOU (i) ARE AT LEAST 18 YEARS OLD AND THE AGE OF MAJORITY; (ii) YOU HAVE READ THESE TERMS IN THE ENTIRETY; (iii) AGREE TO BE BOUND BY ALL OF THE TERMS AND BE HELD LIABLE FOR ANY NONCOMPLIANCE WITH THE TERMS; AND (iv) YOU HAVE THE CAPACITY TO ENTER INTO THESE TERMS SO AS TO BIND YOU THEM. IF YOU DO NOT AGREE TO THESE TERMS OR ARE UNABLE TO COMMIT TO THE FOREGOING, DO NO ACCESS OR USE THE CLICKBANK PLATFORM.
+
+ 
+
+PLEASE NOT THAT THESE TERMS CONTAIN A PROVISION THAT REQUIRES YOU TO RESOLVE DISPUTES (EXCEPT IN CERTAIN CIRCUMSTANCES ON AN INDIVIDUAL BASIS) AND WAIVES RIGHTS TO JURY TRIALS AND CLASS ACTION LAWSUITS. IF YOU RESIDE AND PURCHASE PRODUCTS OR SERVICES USING THE CLICKBANK SERVICES IN A JURISDICTION THAT PERMITS YOU TO OPT-OUT OF SUCH REQUIREMENTS, YOU MUST DO SO WITHIN THIRTY (30) DAYS OF FIRST ENTERING INTO THIS AGREEMENT (OR SUCH LONGER PERIOD AS SUCH LAW MANDATES FOR OPTING OUT).
+
+ 
+
+Subject to the terms and conditions of this Agreement, ClickBank hereby grants to You a non-exclusive, revocable, right and license, without right to sublicense, to use, solely for the purposes set forth in this Agreement; (i) ClickBank's proprietary online platform, (ii) the website located at http://www.clickbank.com, and (iii) any servers, computers, or networks used to provide such website and platform (the foregoing (i) - (iii), individually and collectively, the "ClickBank Services"). In the event You transfer Your account or ownership of any Product, as defined below, You shall ensure that any purchasers or assignees are bound by the terms of this Agreement.
+
+ 
+
+In addition to any other rights or remedies afforded ClickBank under or otherwise in connection with this Agreement, You agree and acknowledge that You have read and agree to comply with the following policies which are hereby incorporated by reference into, and made a part of, this Agreement:
+
+    Seller and Products Requirements Policy
+
+    Digital Millennium Copyright Act ("DMCA") and Trademark Policy
+
+    ClickBank's Return and Subscription Cancellation Policy 
+
+    Accounting Policy
+
+    ClickBank Privacy Policy
+
+    ClickBank Privacy Notice for California Residents
+
+    Security Policy
+
+    Network Abuse Policy
+
+    Legal Notice
+
+    Joint Venture Program Guidelines
+
+    ClickBank Physical Product Addendum
+
+    ClickBank Prohibited Seller and Affiliate Activities Guidelines
+
+ 
+1. REGISTRATION.
+
+a. You will be required to register for an account in order to use certain ClickBank Services. When You provide information during the registration process, You agree to provide only true, accurate, current, and complete information and to update it as necessary to maintain its truth and accuracy.
+​
+
+b. If You register for a ClickBank account, You agree to accept responsibility for all activities that occur under Your account or password, if any, and You agree You will not sell, transfer, or assign Your subscription or any subscriber rights. You are responsible for maintaining the confidentiality of Your password, if any, and for restricting access to Your computer (or other Internet access device, as applicable) so that others may not access the password protected portion of the ClickBank Services using Your account information in whole or in part. ClickBank reserves the right to terminate Your account or otherwise deny You access in its sole discretion without notice and without liability.
+
+ 
+2. PROMOTING PRODUCTS.
+
+If You promote, market, or otherwise advertise ("Promote" or "Promotion") any product or service which is registered for sale via the ClickBank Services, either by You or by another ClickBank client (each, a "Product"), whether via the ClickBank Services or via any other online or offline channel or medium, including for the purpose of earning a percentage of the sale price of any Product sold as a result of such Promotion ("Commissions"), You agree, acknowledge, represent, and warrant that:
+
+ 
+
+a. You will abide by ClickBank's Return and Subscription Cancellation Policy and You will establish Your Seller Return Policy as set forth below.
+
+ 
+
+b. When You Promote a Product, You will use the applicable Seller's trademarks, logos, trade names or service marks in accordance with such Seller's trademark guidelines, which will either be supplied by ClickBank or set forth in the Seller Promotional Messaging Guidelines, if applicable. For purposes of this Agreement, "Seller" is defined as any person or entity that submits one or more Products for sale via the ClickBank Marketplace.
+
+ 
+
+c. You will not make any unlicensed or unauthorized use of, or otherwise infringe, violate, or misappropriate any patent, copyright, trademark, trade secret, right of privacy, right of publicity, or other intellectual property, or other proprietary right (collectively "IP Rights") of any entity or individual. This includes, without limitation, the use of artificial intelligence technologies to create, distribute, or promote content that falsely represents, impersonates, or simulates the likeness, voice, appearance, or identity of any real individual—such as celebrities, public figures, private individuals, or any other person—without express legal authorization. This prohibition covers, but is not limited to, the creation or dissemination of Deep Fakes, voice clones, or AI-generated imagery or media that violates IP Rights or the rights of publicity or privacy of any party.
+
+ 
+
+d. You will not interfere with or manipulate rankings of ClickBank's Marketplace (as defined below in Section 3(d)), tracking of Commissions, or the normal flow of traffic to, through, or from the ClickBank Services.
+
+ 
+
+e. If You Promote Products, which are subject to higher regulatory scrutiny or risks, as determined by ClickBank in its sole discretion, You must be in compliance with the additional terms and conditions provided to You by ClickBank from time to time for the Promotion of such Products, which additional terms are incorporated into this Agreement by this reference.
+
+ 
+
+f. You will not Promote violence, sexually explicit materials, Products from any website, blog, social network, forum, or other medium that contain, host or promote illegal content or material, illegal activities, alcohol, tobacco, or prescription drugs, or that discriminate or promote discrimination based upon race, sex, religion, nationality, disability, sexual orientation, or age.
+
+ 
+
+g. You will not Promote any Products to children under the age of thirteen (13).
+
+ 
+
+h. You will not defame any person or entity.
+
+ 
+
+i. You will not include any trademarks or other brand identifiers, or any copyrighted materials, other than as expressly permitted by this Agreement.
+
+ 
+
+j. You will not incorporate any variation of or misspell any third-party trademarks or other brand identifiers in any domain name, username or other identifier, including on any social networking site.
+
+ 
+
+k. You will not in any way copy the "look and feel" of any third-party website, or otherwise imply that the Promotion is in fact a third-party website.
+
+ 
+
+l. All communications and representations made by You in connection with any Promotions or in relation to any Product will be accurate and contain all disclosures and disclaimers necessary to prevent such Promotions from being false, or deceptive. Such disclosures and disclaimers must be made in a clear and conspicuous manner and will otherwise comply with Your country's laws, all U.S. federal and state laws, including U.S. Federal Trade Commission ("FTC") regulations, policies and guidelines governing advertising, disclosure and consumer protection, including the FTC's Endorsement Guidelines., and any other laws applicable to such Promotion.
+
+ 
+
+m. ClickBank reserves the right but is not obligated to review Your Promotions. You agree that ClickBank, in its sole discretion and at any time, may require changes to Product Promotion and delivery pages, customer support or other items related to the content of Your Promotions.
+
+ 
+
+n. You will provide valid contact information, including but not limited to a working email address and phone number, where ClickBank can send inquiries and receive a non-automated reply by end of the following business day. You will keep all such information accurate and current with Your account.
+
+ 
+
+o. ClickBank does not independently review, verify, guarantee, or assume any responsibility or liability for, the accuracy, completeness, efficacy, or timeliness of any information provided by Sellers, nor is it responsible for any bonuses, prizes or other incentives offered by Sellers via the ClickBank Services. Your use of any information presented by a Seller is voluntary, and Your reliance is at Your sole risk. You acknowledge and understand that ClickBank does not verify statements, claims, incentives, or Promotions made by sellers via the ClickBank Services.
+
+ 
+
+p. You will provide in an accurate and complete manner all information necessary for ClickBank to comply with the the Integrity, Notification, and Fairness in Online Retail Marketplaces for Consumers Act, 15 U.S.C §45(f) (the "INFORM Consumers Act"), and update such information as necessary for ClickBank to remain in compliance with the INFORM Consumers Act.
+
+ 
+
+q. You will comply with all applicable laws, rules and regulations, and will not interfere with any other user's business or use of the ClickBank Services.
+
+ 
+
+r. ClickBank reserves the right to take any action against You for violating this Section 2, including account suspension and termination, in accordance with Section 4.c.
+
+ 
+3. SELLING PRODUCTS.
+
+If You register any Products for sale via the ClickBank Services, You agree, acknowledge, represent, and warrant that:
+
+ 
+
+a. All Products You register for sale via the ClickBank Services must be approved by ClickBank prior to You being able to sell the Products through the ClickBank Services. In certain circumstances, ClickBank may require You to modify Your Products prior to being approved or prohibit Your Products from being sold via the ClickBank Services, in ClickBank's sole discretion. ClickBank’s approval or modification of a Product is not an endorsement of the Product or of any modification thereof, and ClickBank is not liable thereof.
+
+ 
+
+b. All Products You register for sale via the ClickBank Services, and the offering and sale thereof, via the ClickBank Services, comply with all of Your country's laws, all laws of any country to which Your Product may be shipped, and all applicable U.S. federal and state laws and regulations, and any other laws applicable to the Product or Promotion.
+
+ 
+
+c. Your Products do not involve downloading software on the computer of a person or entity purchasing a Product (the "Purchaser") unless a purchase is completed or You provide the Purchaser a clear and conspicuous disclosure describing all of the software being downloaded and its functionality, and You obtain express consent prior to any such downloads.
+
+ 
+
+d. Without further conditions or limitations, You authorize ClickBank to list any Product You register for sale via the ClickBank Services in the online, searchable marketplace of Products made available via the ClickBank Services (the "ClickBank Marketplace"); and make it available for sale to Purchasers and/or for the persons and/or entities that Promote the Products made available via the ClickBank Marketplace ("Affiliates") at the price solely determined by ClickBank ("Retail Price") after taking into consideration Your suggestions regarding such Retail Price, including any applicable sales tax.
+
+ 
+
+e. You will provide in an accurate and complete manner all information necessary for ClickBank to comply with the Integrity, Notification and Fairness in Online Retail Marketplaces for Consumers Act,5 U.S.C. §45(f) (the "INFORM Consumers Act") and update such information as necessary for ClickBank to remain in compliance with the INFORM Consumers Act.
+
+ 
+
+f. You will provide and maintain valid email address(es), and update such address(es) as necessary, for Purchasers or ClickBank to send inquiries and You will receive such emails and provide a reply by end of the following business day. Purchasers and ClickBank must also be able to receive a non-automated response within one business day, when necessary.
+
+ 
+
+g. You will notify ClickBank of any regulatory or legal complaints, or threats of such complaints, that You receive in connection with or in relation to a Product within two business days of Your receipt of such complaint. You shall assist ClickBank, at Your sole cost and expense, in taking any necessary or appropriate actions reasonably requested by ClickBank to respond to and/or resolve such complaints.
+
+ 
+
+h. ClickBank will collect and remit state or local transfer taxes for any retail transaction (including but not limited to sales or use tax) where it believes it is legally required to do so. Where ClickBank does not collect and remit state or local transfer taxes on a transaction, You may have the legal obligation to pay such taxes. Such obligation may arise as a result of Your existing or past physical contacts with a state (including but not limited to Your provision of a "drop ship" delivery of the physical Product to a buyer located in a state). You may wish to consult a tax professional to determine if You will have this type of obligation in any particular state. You agree that if such an obligation arises with respect to any particular state, You will be solely responsible for the timely payment of such tax and any interest or penalties.
+
+ 
+
+i. If and to the extent You use third parties to provide Products, You and such third parties must be in compliance with all terms of this Agreement, and You are responsible for all acts and omissions of such third party.
+
+ 
+
+j. All sellers must include the required disclaimers and comply with the requirements set forth at the following links:https://support.clickbank.com/hc/articles/220199588-Product-Guidelines (the “Product Guidelines") and https://support.clickbank.com/hc/en-us/articles/220376687-Promotional-Guidelines (the “Promotional Guidelines”).
+
+ 
+
+k. You will comply with all applicable laws, rules, and regulations.
+
+ 
+
+l. You will establish an appropriate return, replacement and/or cancellation policy for Your Products ("Seller Return Policy"). Your Seller Return Policy must fall within the range of "no refunds" to allowing refunds or replacements up to sixty (60) days after the date of purchase (i.e., a 30-day refund policy or a 45-day refund policy would each be acceptable, if appropriate). If You believe that a Seller Return Policy longer than sixty (60) days after the date of purchase is appropriate for Your Products, ClickBank will review such a request, and in its sole discretion, may allow an extended Seller Return Policy. You can only provide such an extended Seller Return Policy with ClickBank's written consent.
+
+ 
+
+m. You will ensure that the Seller Return Policy is clearly and conspicuously posted for customers to review prior to purchasing Your Products.
+
+ 
+
+n. ClickBank reserves the right to alter or override Your Seller Return Policy if You abuse ClickBank's flexible Return and Cancellation Policy, if Your Seller Return Policy is not appropriate for the Product(s), if the returned or charged back sales (defined in the Accounting Policy) are excessive, or for any other reason ClickBank deems appropriate, in its sole discretion.
+
+ 
+4. AVAILABILITY OF SERVICES; SUSPENSION; TERMINATION.
+
+You agree and acknowledge that:
+
+ 
+
+a. Subject to the terms and conditions of this Agreement and ClickBank's policies and procedures, ClickBank shall use commercially reasonable efforts to provide the ClickBank Services in a manner that will not disrupt Your business. You acknowledge and agree that from time-to-time the ClickBank Services may be inaccessible or inoperable, including, without limitation, due to: (i) equipment malfunctions; (ii) periodic maintenance procedures or repairs that ClickBank may undertake from time to time; or (iii) causes beyond the reasonable control of ClickBank or that are reasonably unforeseeable by ClickBank, including, without limitation, interruption or failure of telecommunication or digital transmission links, hostile network attacks, network congestion or other failures. You acknowledge and agree that ClickBank is not liable for any periodic interruptions in availability of the ClickBank Services and further acknowledge that ClickBank does not guarantee access to the ClickBank Services on a continuous and uninterrupted basis.
+
+ 
+
+b. ClickBank may decline, delist, or halt sales or Promotion of any Product from the ClickBank Marketplace, suspend funds, adjust Commissions based on performance, close an account, suspend or terminate the ClickBank Services at any time, in its sole discretion, without cause or notice to You or any penalty or liability for doing so.
+
+ 
+
+c. ClickBank, in its sole discretion, may suspend or terminate Your account and Your rights to use the ClickBank Services and ClickBank may retain any or all funds (including future funds that may accrue) in Your ClickBank account, if: (i) ClickBank suspects or has reason to believe, or if a person otherwise claims that You have violated the law or breached any term of this Agreement; (ii) Your account becomes dormant as defined in ClickBank's Accounting Policy; or (iii) or Your account experiences or is reasonably anticipated to experience a negative balance. Upon such termination, You agree to immediately cease all use of the ClickBank Services and ClickBank intellectual property licensed in Section 7.b. of this Agreement. Without limiting the foregoing, ClickBank shall have the right to immediately terminate Your access and use of the ClickBank Services, or any portion thereof, and to seize funds in Your account, in the event of any conduct which ClickBank, in its sole discretion, considers to be unacceptable.
+
+ 
+
+d. Following suspension or termination of an account or retaining of funds pursuant to this Section, ClickBank will review Your account in a manner determined by ClickBank in its sole discretion. You agree to cooperate with this review, if asked. If the review concludes that there is a reasonable basis to believe misconduct has occurred, You agree that ClickBank may retain funds in Your ClickBank account as liquidated damages and for the benefit of ClickBank or third parties affected by the misconduct. You acknowledge and agree that such liquidated damages: (i) are not a penalty, and (ii) are reasonable and not disproportionate to such presumed damages to ClickBank.
+
+ 
+
+e. ClickBank may withhold any portion of the funds in Your ClickBank account if ClickBank, in its sole discretion, determines such action is necessary to secure payment for, performance of, and/or assurances regarding any liabilities, obligations, or indebtedness You may have incurred with ClickBank or any other person or entity.
+
+ 
+5. EMAIL, TEXT MESSAGES AND TELEMARKETING.
+
+a. If You send, or cause to be sent any emails in connection with the direct or indirect Promotion or sale of any Product or Your use of the ClickBank Services, then You agree, acknowledge, represent and warrant that all such Emails shall be in compliance with all applicable federal and state laws and regulations regarding the use of electronic messages, including without limitation the Controlling the Assault of Non-Solicited Pornography and Marketing Act ("CAN-SPAM Act") and the Children's Online Privacy Protection Act ("COPPA") (Information on these laws can be found at http://www.ftc.gov/spam/ and http://www.ftc.gov/privacy/privacyinitiatives/childrens.html).
+
+ 
+
+b. You shall not directly or indirectly exploit documented or undocumented security holes on any client or server machine or obtain email addresses via automated means or send any email to any address which was obtained via automated means or the use of spyware, viruses, or other means of bypassing system security or invading consumer privacy.
+
+ 
+
+c. If You send, or cause to be sent, any text messages or use or procure telemarketing activities in connection with the direct or indirect Promotion or sale of any Product or Your use of the ClickBank Services, then You represent and warrant that all such text messages or calls will be in full-compliance with all applicable federal and state laws and regulations that apply to sending electronic messages and using telemarketing activities, including without limitation regulations issued by the FTC, the Federal Communications Commission ("FCC"), the CAN-SPAM Act, the Telephone Consumer Protection Act ("TCPA") and state laws regarding anti-spam, text messages and Do-Not-Call Registries (Information on these laws can be found at https://www.fcc.gov/sites/default/files/tcpa-rules.pdf, http://www.fcc.gov/guides/spam-unwanted-text-messages-and-email, and http://www.ftc.gov/privacy/privacyinitiatives/childrens.html).
+
+ 
+
+d. You may not use customer information for any purpose not expressly permitted by law, regulation, the Promotional Guidelines, and this Agreement. Any use of customer information other than as expressly permitted may result in termination of Your account, in addition to any other legal actions or remedies ClickBank or individual data subjects may have.
+
+ 
+6. API REQUIREMENTS.
+
+Your use of ClickBank's Application Programming Interface ("API") is subject to the API Terms of Service available at https://support.clickbank.com/hc/en-us/articles/115015427307-API-Contract.
+
+ 
+7. CLICKBANK'S IP RIGHTS.
+
+a. Except as set forth in Section 7.b., You may not use ClickBank's name, trademarks, service marks, or any other IP Right of ClickBank in any manner whatsoever to suggest association or affiliation with or endorsement by ClickBank without the express prior written consent of ClickBank, which ClickBank may withhold at its sole discretion. Promotional use of images or reproductions of payment checks issued by ClickBank without the express, written consent of ClickBank is prohibited.
+
+ 
+
+b. Subject to the following terms and conditions, during the term of this Agreement ClickBank grants You a limited, revocable license to use ClickBank's name: (i) as a watermark, Internet search engine description, keyword, search term or seeding element with any Internet search engines or keyword-triggered advertising programs; (ii) in metatags or hidden text (iii) as a sub domain or second or third level domain name identifier; (iv) to identify Products or (v) in connection with Promotions.
+
+ 
+
+c. ClickBank may revoke the foregoing license and/or provide restrictions upon Your use of ClickBank's name, including requiring the use of such disclaimers as ClickBank may provide, in connection with Your use of ClickBank's name, at any time and for any reason in ClickBank's sole discretion.
+
+ 
+
+d. Failure to comply with any restrictions imposed by ClickBank upon Your use of ClickBank's name or failure by You to immediately cease all use of ClickBank's name if so, instructed by ClickBank shall constitute: (i) a breach of the limited license set forth in this Section 7.b.; and (ii) a breach of this Agreement. In such case, ClickBank reserves the right to pursue any and all remedies available to it at law or in equity.
+
+ 
+
+e. You may not use or display ClickBank's name in any manner to disparage ClickBank or the ClickBank Services.
+
+ 
+
+f. Notwithstanding the limited revocable license set forth in Section 7.b., as between the parties, ClickBank shall be and remain the sole owner of all right, title and interest in and to the ClickBank Services (including, without limitation, all IP Rights therein) and any other IP Rights, materials or other properties owned, licensed, or controlled by ClickBank, and You hereby assign to ClickBank all right, title and interest You may be deemed to have therein. All rights not specifically granted to You under this Agreement are expressly reserved by ClickBank.
+
+ 
+8. CONFIDENTIALITY & NON-DISCLOSURE OBLIGATIONS.
+
+a. In connection with this Agreement, ClickBank may disclose to You and You may otherwise receive or have access to sensitive, confidential, or proprietary information of ClickBank (collectively, "Confidential Information"), including, but not limited to (i) the identities of other sellers or Affiliates of ClickBank (collectively, "ClickBank Clients"); (ii) physical and data security information; (iii) technical data; (iv) ClickBank Marketplace statistics and sales data; or (v) know-how or business information relating to business processes, methods, or marketing strategies. Except as required to perform Your obligations under and in accordance with the terms of this Agreement, You shall not (A) disclose the Confidential Information to any person or entity, or (B) use the Confidential Information (whether for Your own benefit or the benefit of any other person or entity), without the express prior written consent of ClickBank. You may not use any Confidential Information for the purpose of soliciting, or to permit others to solicit, ClickBank Clients to subscribe to any other services or promote the sale of any products which compete, either directly or indirectly, with ClickBank or the ClickBank Services, including without limitation the functionality offered by the ClickBank Marketplace. You agree and acknowledge that ClickBank may be required to provide to governmental agencies or other third parties information in its possession regarding You or the business You conduct with ClickBank.
+
+ 
+
+b. ClickBank does not invite and cannot accept any ideas or information You consider to be confidential or proprietary. Except with respect to Your personally identifiable information (as expressly provided for in the ClickBank Privacy Policy), any suggestions, submissions, comments, ideas, concepts, know-how, techniques material or feedback conveyed, offered or transmitted by You to ClickBank, or otherwise in connection with the ClickBank Services (collectively, the "Submissions"), shall be deemed to be non-confidential and non-proprietary and ClickBank shall have no obligation of any kind with respect to such Submissions, unless otherwise expressly agreed to in a writing executed by You and a duly authorized officer of ClickBank. You hereby grant to ClickBank and its licensees a worldwide, perpetual, non-exclusive, fully-paid, royalty-free, transferable right and license, with right to sublicense, to reproduce, publicly display, distribute, perform, transmit, edit, modify, create derivatives works of, publish, sell, commercially exploit, use, and disclose the Submissions for any purpose and in all forms and all media whether now known or to become known in the future. ClickBank shall have no obligation to compensate You for any such Submissions in any manner. You hereby represent and warrant that: (i) You own or otherwise have the right to grant the foregoing license to ClickBank with respect to Your Submissions; and (ii) Your Submissions and any use thereof by ClickBank will not infringe or violate the rights of any person or entity. You are and shall remain solely responsible for the content of any Submissions You make and acknowledge that ClickBank is under no obligation to respond to or use any Submission You may provide.
+
+ 
+9. EXPORT CONTROL.
+
+You acknowledge and agree to comply with all applicable export laws, including the U.S. Export Administration Act, the Arms Export Control Act, the International Economic Emergency Powers Act, and the Foreign Corrupt Practices Act, and regulations issued pursuant to these and other U.S. laws. You hereby represent and warrant that any Product Promoted, offered and/or provided by You via the ClickBank Services is approved for export to and from the United States without additional authorization or licensing from the U.S., or any other, government. Should the export authorization status of Your Products change, You must immediately notify ClickBank in writing. Information on U.S. export control regulations can be found on the Commerce Department's website at http://www.bis.doc.gov, the State Department's website at http://www.pmddtc.state.gov and the U.S. Treasury Department's website at http://www.treas.gov/offices/enforcement/ofac/index.shtml.
+
+ 
+10. REQUIRED PERMITS.
+
+It is Your sole responsibility to obtain and maintain all applicable licenses and permits required for the operation of Your business.
+
+ 
+11. REPRESENTATIONS AND WARRANTIES.
+
+You represent, acknowledge and warrant that:
+
+ 
+
+a. You, Your Products Your Promotions, and/or Your Submissions, as applicable, do not and will not, directly, or indirectly: (i) violate the right of privacy or publicity of any person or entity; (ii) contain any libelous, obscene, indecent, or otherwise unlawful material; (iii) infringe any IP Rights in any jurisdiction or otherwise contravene any rights of any person or entity; (iv) violate any laws, FTC rules, regulations, guidelines, or industry standards; or (v) violate ClickBank's Privacy Policy.
+
+ 
+
+b. You may not: (i) frame, copy or mirror any content forming part of the ClickBank Services; (ii) reverse engineer the ClickBank Services or otherwise attempt to derive its source materials; (iii) access the ClickBank Services for the purpose of (a) building a competitive product or service, or (b) copy any features, functions or graphics of the ClickBank Services; (iv) interfere with or disrupt the ClickBank Services or any data contained therein; (v) attempt to gain unauthorized access to the ClickBank Services, its related systems or networks; or (vi) use the ClickBank Services for any unlawful purpose or in violation of the rights of any person or entity.
+
+ 
+12. INDEMNIFICATION.
+
+To the fullest extent permitted by law, You agree that:
+
+ 
+
+a. In the event a third party makes any demand or complaint, or commences any action, or files any claim whatsoever ("Claim") in connection with Your use of the ClickBank Services, Your Products, or Your Promotions, You shall defend, indemnify, and hold harmless ClickBank, its related parties and its and their affiliates, and its officers, directors, employees, representatives, agents, licensors, attorneys, heirs, successors, and assignees (the "ClickBank Parties"), from and against any and all damages, liabilities, claims or costs (including the costs of investigation, defense, reasonable attorneys' fees and costs) ("Losses") incurred by any ClickBank Party as a result of such Claim, regardless of whether such Losses are direct, incidental, consequential, punitive or statutory.
+
+ 
+
+b. Upon receiving notice of a Claim for which ClickBank is entitled to indemnification by You, ClickBank shall provide You with written notification and the opportunity to assume sole control over the defense or settlement of the Claim and reasonable assistance to settle or defend the Claim at Your sole expense; provided, however, that (i) any settlement which would impose a non-monetary obligation on, or admission or finding of liability or wrongdoing by ClickBank will require ClickBank's prior written consent; (ii) the failure to provide timely notice, control, or assistance shall not relieve You of Your indemnification obligations; and (iii) ClickBank may have its own counsel present at and participating in all proceedings or negotiations relating to a Claim, at ClickBank's own expense, unless You fail or refuse to secure legal counsel to defend any Claim in a timely manner, in which case You shall pay all expenses related to ClickBank's use of counsel.
+
+ 
+
+c. In the event that ClickBank incurs costs, attorneys' fees or other expenses responding to any complaint other than a Claim, in connection with or in relation to Your Products or Promotions, including copyright infringement complaints under the DMCA, ClickBank reserves the right, in its sole discretion, to recover such costs and expenses by deducting a reasonable, commensurate amount from any monies owed to You by ClickBank up to a maximum of ten thousand dollars ($10,000) per event. In the event that ClickBank incurs any Losses relating to Your violation of ClickBank's Email/Text Message/Telemarketing policy, as set forth in Section 5 above, ClickBank reserves the right, in its sole discretion, first to recover such Losses by deducting a reasonable, commensurate amount from any monies owed to You by ClickBank up to a maximum of twenty thousand dollars ($20,000) per event. You understand and agree that the remedies set forth above are not exhaustive and that ClickBank retains all rights to indemnification described herein. You authorize ClickBank to make, and release ClickBank from any liability in connection with, any such deductions.
+
+ 
+13. LIMITATIONS OF LIABILITY.
+
+IN NO EVENT SHALL ANY CLICKBANK PARTY, OR ITS HEIRS, SUCCESSORS AND ASSIGNS, BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF, RESULTING FROM, OR IN CONNECTION WITH THIS AGREEMENT OR ANY (A) USE OF OR INABILITY TO USE THE CLICKBANK SERVICES, (B) PERSONAL INJURY, PROPERTY DAMAGE, OR LOSSES OF ANY KIND, RESULTING FROM YOUR ACCESS TO OR USE OF THE CLICKBANK SERVICES, (C) UNAUTHORIZED ACCESS TO OR USE OF ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (D) INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE CLICKBANK SERVICES, OR (E) BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH THE CLICKBANK SERVICES, WHETHER OR NOT CLICKBANK IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING HEREIN TO THE CONTRARY, THE MAXIMUM CUMULATIVE AND AGGREGATE LIABILITY OF CLICKBANK FOR ALL COSTS, LOSSES OR DAMAGES FROM CLAIMS ARISING UNDER OR RELATED IN ANY WAY TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT OR OTHERWISE, SHALL NOT EXCEED AN AMOUNT EQUAL TO THE TOTAL AMOUNTS DUE AND PAYABLE BY CLICKBANK TO YOU UNDER THIS AGREEMENT FOR THE MONTH IMMEDIATELY PRECEDING THE DATE UPON WHICH SUCH DAMAGES ACCRUE. THE LIMITATION OF LIABILITY HEREIN IS A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN AND REFLECTS A FAIR ALLOCATION OF RISK. THE CLICKBANK SERVICES, AND ANY SERVICES OR INFORMATION OFFERED THROUGH THE CLICKBANK SERVICES, WOULD NOT BE PROVIDED WITHOUT SUCH LIMITATIONS AND YOU AGREE THAT THE LIMITATIONS OF LIABILITY AND DISCLAIMERS SPECIFIED HEREIN WILL SURVIVE AND APPLY EVEN IF FOUND TO HAVE FAILED OF THEIR ESSENTIAL PURPOSE. BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN CATEGORIES OF DAMAGES, IN SUCH JURISDICTIONS, YOU AGREE THAT THE LIABILITY OF CLICKBANK SHALL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY SUCH JURISDICTION.
+
+ 
+14. DATA PROCESSING.
+
+a. You agree to comply with all data protection laws and regulations, including the E.U.’s and U.K.'s data protection regulations, the General Data Protection Regulation (“GDPR”). You agree not to market to persons subject to GDPR who have not consented to receive marketing communications.
+
+ 
+
+b. Persons subject to GDPR are entitled to demand that You take certain actions with respect to their data, including, without limitation, that You delete it, correct it, or restrict processing of it. If You receive a data request from a person subject to GDPR, or if ClickBank receives any such request with respect to data You are processing, You agree to honor the request within 30 days. You agree to implement appropriate systems and processes to comply with this requirement.
+
+ 
+
+c. If You receive any personal data from ClickBank or process personal data on ClickBank’s behalf, You will: (i) implement appropriate technical and organizational measures to ensure the security of the data; (ii) only process personal data for purposes approved by ClickBank; (iii) cease processing such data upon request from ClickBank; (iv) transfer such data only for purposes authorized by law, with prior notification to ClickBank, and only pursuant to an appropriate sub processing agreement; (v) indemnify ClickBank for any claim, expense, demand or cost related to Your receipt or use of such data; and (vi) upon request, provide ClickBank with information sufficient to demonstrate Your compliance with this Section, and allow ClickBank to audit Your data practices if necessary in ClickBank’s sole discretion.
+
+ 
+15. NO GUARANTEE OF VALIDITY.
+
+ClickBank does not endorse, approve, or certify any information provided on or through the ClickBank Services, nor does it guarantee the accuracy, completeness, efficacy, timeliness, or correct sequencing of such information. Information provided on or through the ClickBank Services may or may not be current as of the date of Your access, and ClickBank has no duty to update and maintain such information. Additionally, the information provided on or through the ClickBank Services may be changed periodically without prior notice. All content provided on or through the ClickBank Services is provided "AS IS." Use of such information is voluntary, and reliance on it should only be undertaken after an independent review of its accuracy, completeness, efficacy, and timeliness.
+
+ 
+16. NO PROFESSIONAL ADVICE.
+
+ClickBank provides professional information (for example, financial, or compliance) for informational purposes only, which should not be construed as legal or accounting advice. You should seek independent professional advice from a person who is licensed or knowledgeable in the applicable area before acting upon any information, fact or opinion provided on or through the ClickBank Services. You understand that ClickBank employees, representatives, or agents do not provide advice pursuant to the authority of professional certifications or licenses and You will not treat information provided by employees, representatives, or agents as such. You further understand that by receiving information, facts, or opinions on or through the ClickBank Services, You are not entering into a relationship with ClickBank, nor its employees, representatives, nor agents that entitles You to client privileges that may be associated with any professional certifications or licenses.
+
+ 
+17. DISCLAIMER.
+
+YOU ASSUME ALL RISK AND RESPONSIBILITY FOR YOUR DECISION TO USE THE CLICKBANK SERVICES. THE CLICKBANK SERVICES AND ALL RELATED SERVICES ARE OFFERED "AS IS" AND CLICKBANK DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. NEITHER CLICKBANK NOR ITS RELATED PARTIES AND AFFILIATES ENDORSE OR ARE RESPONSIBLE FOR THE ACCURACY OR RELIABILITY OF ANY INFORMATION, FACT OR OPINION PROVIDED ON OR THROUGH THE CLICKBANK SERVICES.
+
+ 
+18. GENERAL TERMS AND CONDITIONS.
+
+a. Governing Law; Dispute Resolution, Attorney Fees. You agree that Idaho law will govern this Agreement and that any action, suit, proceeding, or claim arising out of or related to this Agreement must be brought exclusively in federal or state courts located in Boise, Idaho. You hereby submit to the in personam jurisdiction and venue of such courts and waive any objection based on inconvenient forum. You agree to indemnify ClickBank for all of its reasonable attorney fees and costs incurred as a result of any action, suit, proceeding, or claim brought by You or ClickBank in which ClickBank is found to be the prevailing party. UNLESS YOU RE PERMITTED BY THIS AGREEMENT AND APPLICABLE LAW TO OPT-OUT OR SUCH PROVISIONS (i) YOU HEREBY IRREVOCABLY WAIVE ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, SUIT, PROCEEDING, CLAIM OR COUNTERCLAIM ARISING UNDER OR IN RELATION TO THIS AGREEMENT, and (ii) YOU AND CLICKBANK AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION OR REPRESENTATIVE ACTION. If You are permitted by law to opt out and elect to do so, You must send a written letter postmarked not later than thirty (30) days (or, if applicable law mandates a longer period, then the shortest period permitted by such applicable law) from when You first entered this Agreement to: Click Sales Inc. d/b/a ClickBank, Attn: Class Action Opt-Out, 1444 S. Entertainment Ave., Ste. 410, Boise, Idaho 83709 with Your full name, address, and the location where You entered the Agreement, the date You entered into the Agreement, and the provisions within this Section which You are expressly opting-out.
+
+ 
+
+b. English is Governing Language. This Agreement is in English and all disputes between the parties shall be resolved in English. You understand and acknowledge that any foreign language services provided by ClickBank are for informational purposes only and it is Your obligation to obtain independent legal advice at Your own expense to ensure You understand the terms of this Agreement.
+
+ 
+
+c. ClickBank's Relationship. This Agreement does not create any relationship of principal and agent, partners, joint venturers, employer and employee, fiduciary, or similar relationship between the parties. You are prohibited from making any promise, warranty, or representation on behalf of ClickBank or obligating ClickBank in any way. You may not represent to any person or entity that You are the agent of ClickBank or are authorized to act on its behalf.
+
+ 
+
+d. Assignment. ClickBank may freely assign or transfer any or all of the rights and obligations described in this Agreement. You may not assign this Agreement or any of Your rights and duties hereunder without the prior written consent of ClickBank. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+ 
+
+e. Severability. If any provision of this Agreement is determined by a court to be unenforceable or invalid, the validity of the remaining parts, terms or provisions shall not be affected by that determination, and such court shall substitute a provision that is legal and enforceable and is as close to the intentions underlying the original provision as possible.
+
+ 
+
+f. Publicity. You may not issue or make any publicity release (including press releases and advertising or solicitation materials) or other public statement: (i) relating to this Agreement; (ii) using ClickBank's name or referencing the ClickBank Services; or (iii) suggesting or implying any endorsement by ClickBank of You and/or any Products without the prior written approval of ClickBank, which ClickBank may withhold in its sole discretion. You hereby authorize ClickBank to include Your name, business name, and general information about Your use of the ClickBank services in ClickBank’s marketing and promotional materials.
+
+ 
+
+g. Entire Agreement; Amendment. This Agreement constitutes the complete and exclusive agreement between the parties relating to the subject matter hereof. It supersedes all prior proposals, understandings, and all other agreements, oral and written, between the parties relating to this subject matter. ClickBank reserves the right to amend this Agreement at any time. When ClickBank amends this Agreement, ClickBank shall make reasonable efforts to provide You with general, not specific, notice of such changes by posting a conspicuous announcement at http://www.clickbank.com that such changes or amendments have occurred and identifying which particular provisions have changed. Such announcement shall be maintained for no less than 30 days following the effective date of such amendment. Your continued use of the ClickBank Services, following the posting of such amendment will signify and be deemed Your assent to and acceptance of the revised Agreement. You agree that You have the burden to review periodically http://www.clickbank.com to inform Yourself of any such changes.
+
+ 
+
+h. Waiver. The waiver or failure by ClickBank to exercise any right provided for herein will not be deemed a waiver of any further right hereunder. The rights and remedies of ClickBank set forth in this Agreement are cumulative and are in addition to any rights or remedies ClickBank may otherwise have at law or equity, except with respect to any sole and exclusive remedies expressly provided for herein.
+
+ 
+
+i. Equitable Actions. You acknowledge and agree that any breach or threatened breach of this Agreement may cause immediate and irreparable harm to ClickBank which would not be adequately compensated by monetary damages and that ClickBank may seek injunctive relief, specific performance, and other equitable relief as a remedy for any such breach or anticipated breach without the necessity of posting a bond or other security. Notwithstanding any other provision of this Agreement, any such relief may be sought in the state or federal courts of the State of Idaho or any other court of competent jurisdiction anywhere in the world (at ClickBank's sole discretion), and, You hereby consent to the jurisdiction of any such court and waive any objection to venue laid therein. Any such relief shall be in addition to and not in lieu of any appropriate relief in the way of monetary damages.
+
+ 
+
+j. Force Majeure. You nor ClickBank shall be responsible for delays or failures in performance resulting from acts of God, strikes, lockouts, riots, acts of war and terrorism, embargoes, boycotts, changes in governmental regulations, epidemics, fire, communication line failures, power failures, earthquakes, other disasters, or any other reason where failure to perform is beyond the control of, and not caused by, the non-performing party.
+
+ 
+
+k. Notices. Any notice, request, approval, authorization, consent, demand or other communication required or permitted pursuant to this Agreement shall be in writing and shall be deemed given on the earliest of: (i) actual receipt, irrespective of the method of delivery; (ii) the time of transmission from ClickBank if sent via email, as date stamped by ClickBank's systems; (iii) on the delivery day following dispatch if sent by express mail (or similar next day air courier service); or (iv) on the sixth (6th) day after mailing by registered or certified United States mail, return receipt requested, postage prepaid and addressed to the last address provided by a party.
+
+ 
+
+l. Headings/Interpretation. The section headings are for convenience only and shall not control or affect the meaning or construction of any provision of this Agreement.
+
+ 
+
+m. Survival. Sections 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, and 18, and such other terms by their language and understanding are intended to survive expiration or termination, shall survive termination or expiration of this Agreement.
+
+18957964_v7
+
+ 
+Related Articles

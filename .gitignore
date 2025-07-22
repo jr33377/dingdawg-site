@@ -3,3 +3,14 @@
 
 # Ignore environment variables file
 .env
+
+# Ignore Hugo build output
+public/
+resources/
+
+# Ignore Hugo log files
+hugo.log
+
+# Ignore downloaded binaries and archives
+hugo
+*.tar.gz
