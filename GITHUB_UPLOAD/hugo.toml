@@ -1,5 +1,23 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dingdawg.com/'
 languageCode = 'en-us'
 title = 'AI Affiliate Funnel'
 theme = 'PaperMod'
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Reviews"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    name = "Tools"
+    url = "/tools/"
+    weight = 30
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 40
 

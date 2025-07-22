@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DingDawg Tools - AI & Tech Directory</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#0066cc',
+                        secondary: '#1a1a1a',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-gray-900 text-white min-h-screen">
+    <!-- Header -->
+    <header class="bg-black/50 backdrop-blur-md border-b border-gray-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-4">
+                    <h1 class="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
+                        DingDawg Tools
+                    </h1>
+                </div>
+                <nav class="flex space-x-6">
+                    <a href="/" class="text-gray-300 hover:text-white transition-colors">Home</a>
+                    <a href="/posts/" class="text-gray-300 hover:text-white transition-colors">Reviews</a>
+                    <a href="/tools/" class="text-blue-400">Tools</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Search and Filter -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div class="flex flex-col md:flex-row gap-4 mb-8">
+            <div class="flex-1">
+                <input type="text" id="search" placeholder="Search tools..." 
+                       class="w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+            </div>
+            <div class="flex flex-wrap gap-2">
+                <button onclick="filterCategory('All')" class="category-btn active px-4 py-2 rounded-lg bg-blue-600 text-white">
+                    All
+                </button>
+                <button onclick="filterCategory('AI Books')" class="category-btn px-4 py-2 rounded-lg bg-gray-700 text-gray-300 hover:bg-gray-600">
+                    AI Books
+                </button>
+                <button onclick="filterCategory('Hardware')" class="category-btn px-4 py-2 rounded-lg bg-gray-700 text-gray-300 hover:bg-gray-600">
+                    Hardware
+                </button>
+                <button onclick="filterCategory('Courses')" class="category-btn px-4 py-2 rounded-lg bg-gray-700 text-gray-300 hover:bg-gray-600">
+                    Courses
+                </button>
+            </div>
+        </div>
+
+        <!-- Products Grid -->
+        <div id="products-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Products will be loaded here -->
+        </div>
+    </div>
+
+    <script>
+        // Product data
+        const products = [
+            {
+                title: "Hands-On Machine Learning",
+                category: "AI Books",
+                price: "$63.99",
+                rating: 5,
+                description: "Comprehensive guide to ML with Scikit-Learn, Keras, and TensorFlow",
+                affiliate_link: "https://amzn.to/3YrKqxE",
+                review_link: "/posts/hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-review/"
+            },
+            {
+                title: "Sony WH-1000XM4 Headphones",
+                category: "Hardware",
+                price: "$348.00",
+                rating: 5,
+                description: "Premium wireless noise-canceling headphones",
+                affiliate_link: "https://amzn.to/4fJGqOx",
+                review_link: "/posts/sony-wh-1000xm4-wireless-premium-noise-canceling-overhead-headphones-review/"
+            },
+            {
+                title: "Echo Dot (4th Gen)",
+                category: "Hardware",
+                price: "$49.99",
+                rating: 4,
+                description: "Smart speaker with Alexa",
+                affiliate_link: "https://amzn.to/3YL8KqE",
+                review_link: "/posts/echo-dot-4th-gen-with-alexa---smart-speaker-review/"
+            },
+            {
+                title: "Python Crash Course",
+                category: "AI Books",
+                price: "$39.95",
+                rating: 5,
+                description: "Hands-on, project-based introduction to programming",
+                affiliate_link: "https://amzn.to/4fJGqOx",
+                review_link: "/posts/python-crash-course-a-hands-on-project-based-introduction-to-programming-review/"
+            },
+            {
+                title: "AI Mastery Course",
+                category: "Courses",
+                price: "$197.00",
+                rating: 5,
+                description: "Complete AI and machine learning mastery program",
+                affiliate_link: "https://hop.clickbank.net/?affiliate=joe333777&vendor=aimastery",
+                review_link: "#"
+            },
+            {
+                title: "ChatGPT Business Blueprint",
+                category: "Courses",
+                price: "$97.00",
+                rating: 4,
+                description: "Master ChatGPT for business applications",
+                affiliate_link: "https://hop.clickbank.net/?affiliate=joe333777&vendor=chatgptbiz",
+                review_link: "#"
+            }
+        ];
+
+        // Render products
+        function renderProducts(productsToShow) {
+            const grid = document.getElementById('products-grid');
+            grid.innerHTML = productsToShow.map(product => `
+                <div class="product-card bg-gray-800 rounded-lg p-6 border border-gray-700 hover:border-blue-500 transition-all">
+                    <div class="flex justify-between items-start mb-4">
+                        <h3 class="text-lg font-semibold text-white">${product.title}</h3>
+                        <span class="text-blue-400 font-bold">${product.price}</span>
+                    </div>
+                    
+                    <div class="flex items-center mb-2">
+                        <div class="flex text-yellow-400">
+                            ${'★'.repeat(product.rating)}${'☆'.repeat(5-product.rating)}
+                        </div>
+                        <span class="ml-2 text-gray-400">(${product.rating}/5)</span>
+                    </div>
+                    
+                    <p class="text-gray-300 mb-4 text-sm">${product.description}</p>
+                    
+                    <div class="flex gap-2">
+                        <a href="${product.affiliate_link}" target="_blank" rel="nofollow" 
+                           class="flex-1 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded text-center font-medium transition-colors">
+                            Get Tool
+                        </a>
+                        ${product.review_link !== '#' ? `
+                            <a href="${product.review_link}" 
+                               class="px-4 py-2 border border-gray-600 text-gray-300 rounded hover:border-gray-500 transition-colors">
+                                Review
+                            </a>
+                        ` : ''}
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // Filter by category
+        function filterCategory(category) {
+            const buttons = document.querySelectorAll('.category-btn');
+            buttons.forEach(btn => {
+                btn.classList.remove('active', 'bg-blue-600', 'text-white');
+                btn.classList.add('bg-gray-700', 'text-gray-300');
+            });
+            
+            event.target.classList.add('active', 'bg-blue-600', 'text-white');
+            event.target.classList.remove('bg-gray-700', 'text-gray-300');
+            
+            const filtered = category === 'All' ? products : products.filter(p => p.category === category);
+            renderProducts(filtered);
+        }
+
+        // Search functionality
+        document.getElementById('search').addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+            const filtered = products.filter(p => 
+                p.title.toLowerCase().includes(searchTerm) || 
+                p.description.toLowerCase().includes(searchTerm)
+            );
+            renderProducts(filtered);
+        });
+
+        // Initial render
+        renderProducts(products);
+    </script>
+</body>
+</html>
