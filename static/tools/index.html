@@ -1,4 +1,4 @@
-<\!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,7 +19,7 @@
     </script>
 </head>
 <body class="bg-gray-900 text-white min-h-screen">
-    <\!-- Header -->
+    <!-- Header -->
     <header class="bg-black/50 backdrop-blur-md border-b border-gray-800">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <div class="flex items-center justify-between">
@@ -37,7 +37,7 @@
         </div>
     </header>
 
-    <\!-- Search and Filter -->
+    <!-- Search and Filter -->
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div class="flex flex-col md:flex-row gap-4 mb-8">
             <div class="flex-1">
@@ -63,9 +63,9 @@
             </div>
         </div>
 
-        <\!-- Products Grid -->
+        <!-- Products Grid -->
         <div id="products-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <\!-- Products will be loaded here -->
+            <!-- Products will be loaded here -->
         </div>
     </div>
 
@@ -593,7 +593,7 @@
                            class="flex-1 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded text-center font-medium transition-colors">
                             Get Tool
                         </a>
-                        ${product.review_link \!== '#' ? `
+                        ${product.review_link !== '#' ? `
                             <a href="${product.review_link}" 
                                class="px-4 py-2 border border-gray-600 text-gray-300 rounded hover:border-gray-500 transition-colors">
                                 Review
