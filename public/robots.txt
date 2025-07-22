@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /.git/
+
+# Enhanced crawling directives for affiliate site
+Allow: /posts/
+Allow: /tools/
+Allow: /categories/
+Allow: /tags/
+
+# Sitemap location
+Sitemap: https://dingdawg.com/sitemap.xml
+
+# Crawl-delay to be respectful to search engines
+Crawl-delay: 1
