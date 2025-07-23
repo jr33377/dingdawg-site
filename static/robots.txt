@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /.git/
+Sitemap: https://dingdawg.com/sitemap.xml
+Crawl-delay: 1

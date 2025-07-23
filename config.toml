@@ -1,0 +1,93 @@
+baseURL = 'https://dingdawg.com/'
+languageCode = 'en-us'
+title = 'DingDawg - AI Tools & Tech Reviews'
+theme = 'PaperMod'
+
+[params]
+google_analytics = "G-DINGDAWG2024"
+cookie_banner = true
+author = "DingDawg Team"
+description = "Professional AI tools, tech reviews, and affiliate recommendations for modern businesses and developers."
+keywords = ["AI tools", "tech reviews", "affiliate marketing", "business automation", "productivity tools"]
+images = ["/images/dingdawg-og-image.jpg"]
+
+# SEO enhancements
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = true
+tocopen = false
+
+# Social links for better SEO
+[[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/dingdawg"
+[[params.socialIcons]]
+  name = "github"  
+  url = "https://github.com/dingdawg"
+
+[permalinks]
+posts = "/posts/:slug/"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+trailingSlash = "always"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.7
+
+[styles]
+homepage_gradient = "bg-gradient-to-r from-purple-500 via-pink-500 to-red-500"
+card_base = "bg-gray-800 border border-gray-700 rounded-xl shadow hover:shadow-lg hover:border-blue-500 transition-transform hover:scale-[1.02]"
+button_primary = "bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-xl font-semibold shadow"
+button_secondary = "border border-gray-500 text-gray-300 px-4 py-2 rounded hover:border-gray-300"
+header_logo = "text-3xl font-extrabold bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent drop-shadow"
+input_box = "bg-gray-800 border border-gray-600 rounded-xl px-4 py-3 focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-inner"
+rating_star = "text-yellow-400 text-sm"
+content_fade = "transition-opacity duration-500 ease-in"
+
+# Google Analytics 4
+[services]
+  [services.googleAnalytics]
+    ID = "G-DINGDAWG2024"
+
+# Enhanced taxonomy for better SEO
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Reviews"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    name = "Tools"
+    url = "/tools/"
+    weight = 30
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 40

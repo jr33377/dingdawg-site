@@ -1,0 +1,12 @@
+<script>
+  if (localStorage.getItem('cookieConsent') !== 'accepted') {
+    const banner = document.createElement('div');
+    banner.innerHTML = `
+      <div style="position:fixed;bottom:0;width:100%;background:#1a1a1a;color:white;padding:1rem;text-align:center;z-index:9999;">
+        We use cookies to enhance your experience. By continuing to visit this site, you accept our use of cookies.
+        <button style="margin-left:1rem;padding:0.5rem 1rem;background:#00f;border:none;color:white;border-radius:5px;cursor:pointer;" onclick="localStorage.setItem('cookieConsent','accepted');this.parentNode.remove();">Accept</button>
+      </div>
+    `;
+    document.body.appendChild(banner);
+  }
+</script>

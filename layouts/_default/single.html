@@ -1,0 +1,7 @@
+<article class="prose prose-invert max-w-none animate-fade-in">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ with .Params.affiliate_link }}
+  <a href="{{ . }}" class="button_primary mt-4 inline-block">Get it now</a>
+  {{ end }}
+</article>

@@ -1,0 +1,4 @@
+/posts/* /posts/:splat/ 301!
+/tools /tools/ 301!
+/about /about/ 301!
+/privacy /privacy/ 301!
