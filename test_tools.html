@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Tools</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white p-8">
+    <h1 class="text-2xl mb-4">Testing Tools JavaScript</h1>
+    
+    <button onclick="testFilter()" class="bg-blue-600 px-4 py-2 rounded mb-4">Test Filter</button>
+    
+    <div id="test-results" class="bg-gray-800 p-4 rounded">
+        <p>Click test button to check JavaScript functionality</p>
+    </div>
+
+    <div id="products-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-4">
+        <!-- Products will be loaded here -->
+    </div>
+
+    <script>
+        // Sample products for testing
+        const products = [
+            {
+                title: "Test Product 1",
+                category: "AI Tools",
+                price: "$99",
+                rating: 4,
+                description: "Test description 1",
+                affiliate_link: "https://example.com/1",
+                review_link: "#"
+            },
+            {
+                title: "Test Product 2", 
+                category: "Marketing",
+                price: "$199",
+                rating: 5,
+                description: "Test description 2",
+                affiliate_link: "https://example.com/2",
+                review_link: "#"
+            }
+        ];
+
+        function renderProducts(productsToShow) {
+            const grid = document.getElementById('products-grid');
+            grid.innerHTML = productsToShow.map(product => `
+                <div class="product-card bg-gray-800 rounded-lg p-6 border border-gray-700">
+                    <h3 class="text-lg font-semibold text-white mb-2">${product.title}</h3>
+                    <p class="text-gray-300 mb-4">${product.description}</p>
+                    <div class="flex gap-2">
+                        <a href="${product.affiliate_link}" target="_blank" 
+                           class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded">
+                            Get Tool
+                        </a>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function testFilter() {
+            document.getElementById('test-results').innerHTML = `
+                <p>JavaScript is working!</p>
+                <p>Products array length: ${products.length}</p>
+                <p>Rendering products...</p>
+            `;
+            renderProducts(products);
+        }
+
+        // Initial render
+        renderProducts(products);
+    </script>
+</body>
+</html>

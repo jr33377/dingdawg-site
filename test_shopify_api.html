@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopify API Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .credentials {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            border-left: 4px solid #007bff;
+        }
+        .test-section {
+            margin: 20px 0;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 5px;
+        }
+        .success {
+            color: #28a745;
+            font-weight: bold;
+        }
+        .error {
+            color: #dc3545;
+            font-weight: bold;
+        }
+        .warning {
+            color: #ffc107;
+            font-weight: bold;
+        }
+        .results {
+            background: #e9ecef;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+            white-space: pre-wrap;
+            font-family: monospace;
+        }
+        button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        input {
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin: 5px;
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Shopify API Connectivity Test</h1>
+        
+        <div class="credentials">
+            <h3>Current Credentials:</h3>
+            <p><strong>SHOPIFY_ACCOUNT_SID:</strong> IRcZcymc9wen6420145akTB5xMpVxcTCR1</p>
+            <p><strong>SHOPIFY_AUTH_TOKEN:</strong> J5KWGwX5dDebRJ.egZpKYasL.UMUSCRs</p>
+            <p class="warning">⚠️ Note: These don't appear to be standard Shopify API credentials</p>
+        </div>
+
+        <div class="test-section">
+            <h3>Shop Configuration</h3>
+            <p>Enter your Shopify shop domain:</p>
+            <input type="text" id="shopDomain" placeholder="your-shop-name.myshopify.com" value="">
+            <p>Access Token (using provided SHOPIFY_AUTH_TOKEN):</p>
+            <input type="text" id="accessToken" value="J5KWGwX5dDebRJ.egZpKYasL.UMUSCRs" readonly>
+        </div>
+
+        <div class="test-section">
+            <h3>API Tests</h3>
+            <button onclick="testShopInfo()">Test Shop Info</button>
+            <button onclick="testProducts()">Test Products Endpoint</button>
+            <button onclick="testProductCount()">Test Product Count</button>
+            <button onclick="clearResults()">Clear Results</button>
+            
+            <div id="results"></div>
+        </div>
+
+        <div class="test-section">
+            <h3>API Documentation Reference</h3>
+            <p><strong>Correct Shopify API Format:</strong></p>
+            <ul>
+                <li>Base URL: <code>https://{shop}.myshopify.com/admin/api/2024-10/</code></li>
+                <li>Authentication: <code>X-Shopify-Access-Token</code> header</li>
+                <li>Products endpoint: <code>/products.json</code></li>
+                <li>Shop info endpoint: <code>/shop.json</code></li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        const CREDENTIALS = {
+            SHOPIFY_ACCOUNT_SID: 'IRcZcymc9wen6420145akTB5xMpVxcTCR1',
+            SHOPIFY_AUTH_TOKEN: 'J5KWGwX5dDebRJ.egZpKYasL.UMUSCRs'
+        };
+
+        function addResult(message, type = 'info') {
+            const results = document.getElementById('results');
+            const div = document.createElement('div');
+            div.className = `results ${type}`;
+            div.textContent = new Date().toLocaleTimeString() + ': ' + message;
+            results.appendChild(div);
+        }
+
+        function clearResults() {
+            document.getElementById('results').innerHTML = '';
+        }
+
+        async function makeShopifyRequest(endpoint) {
+            const shopDomain = document.getElementById('shopDomain').value;
+            const accessToken = document.getElementById('accessToken').value;
+
+            if (!shopDomain) {
+                addResult('Please enter your shop domain first', 'error');
+                return null;
+            }
+
+            // Ensure proper domain format
+            const domain = shopDomain.includes('.myshopify.com') ? shopDomain : shopDomain + '.myshopify.com';
+            const url = `https://${domain}/admin/api/2024-10${endpoint}`;
+
+            addResult(`Testing URL: ${url}`, 'info');
+            addResult(`Using Access Token: ${accessToken}`, 'info');
+
+            try {
+                const response = await fetch(url, {
+                    method: 'GET',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-Shopify-Access-Token': accessToken
+                    }
+                });
+
+                const responseData = {
+                    status: response.status,
+                    statusText: response.statusText,
+                    headers: {}
+                };
+
+                // Capture important headers
+                ['x-shopify-api-version', 'x-shopify-shop-api-call-limit', 'retry-after'].forEach(header => {
+                    if (response.headers.get(header)) {
+                        responseData.headers[header] = response.headers.get(header);
+                    }
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    return { success: true, data, response: responseData };
+                } else {
+                    const errorText = await response.text();
+                    return { success: false, error: errorText, response: responseData };
+                }
+            } catch (error) {
+                addResult(`Network Error: ${error.message}`, 'error');
+                return { success: false, error: error.message };
+            }
+        }
+
+        async function testShopInfo() {
+            addResult('Testing shop info endpoint...', 'info');
+            const result = await makeShopifyRequest('/shop.json');
+            
+            if (result && result.success) {
+                addResult('✅ Shop info retrieved successfully!', 'success');
+                addResult(`Shop Name: ${result.data.shop.name}`, 'success');
+                addResult(`Shop Domain: ${result.data.shop.domain}`, 'success');
+                addResult(`Plan: ${result.data.shop.plan_name}`, 'success');
+                addResult(JSON.stringify(result.data.shop, null, 2), 'info');
+            } else if (result) {
+                addResult(`❌ Shop info failed: ${result.error}`, 'error');
+                addResult(`Status: ${result.response?.status} ${result.response?.statusText}`, 'error');
+            }
+        }
+
+        async function testProducts() {
+            addResult('Testing products endpoint...', 'info');
+            const result = await makeShopifyRequest('/products.json?limit=5');
+            
+            if (result && result.success) {
+                addResult(`✅ Products retrieved successfully! Found ${result.data.products.length} products`, 'success');
+                result.data.products.forEach((product, index) => {
+                    addResult(`Product ${index + 1}: ${product.title} - $${product.variants[0]?.price || 'N/A'}`, 'success');
+                });
+                addResult(JSON.stringify(result.data.products, null, 2), 'info');
+            } else if (result) {
+                addResult(`❌ Products fetch failed: ${result.error}`, 'error');
+                addResult(`Status: ${result.response?.status} ${result.response?.statusText}`, 'error');
+            }
+        }
+
+        async function testProductCount() {
+            addResult('Testing product count endpoint...', 'info');
+            const result = await makeShopifyRequest('/products/count.json');
+            
+            if (result && result.success) {
+                addResult(`✅ Product count retrieved: ${result.data.count} products in store`, 'success');
+            } else if (result) {
+                addResult(`❌ Product count failed: ${result.error}`, 'error');
+                addResult(`Status: ${result.response?.status} ${result.response?.statusText}`, 'error');
+            }
+        }
+
+        // Add initial message
+        window.onload = function() {
+            addResult('Shopify API Test Tool Ready', 'info');
+            addResult('⚠️ WARNING: The provided credentials (SHOPIFY_ACCOUNT_SID/SHOPIFY_AUTH_TOKEN) do not match standard Shopify API credential formats', 'warning');
+            addResult('Standard Shopify requires: Shop Domain + Access Token', 'warning');
+            addResult('Please enter your shop domain above and try the tests', 'info');
+        };
+    </script>
+</body>
+</html>
